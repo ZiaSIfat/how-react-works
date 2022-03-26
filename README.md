@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# How react works 
+
+## I will read [reactjs.org completely](https://reactjs.org/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
